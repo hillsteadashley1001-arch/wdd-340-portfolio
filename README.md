@@ -8,8 +8,8 @@ This portfolio contains the major projects completed during the WDD 340 course.
 
 The SleepOutside project was a team-based application focused on building modular JavaScript, API-driven features, and collaborative workflows.
 
-- 🔗 **Live Site:** https://your-sleepoutside-url-here
-- 💻 **GitHub Repository:** https://github.com/your-username/sleepoutside
+- 🔗 **Live Site:** https://sleepoutside-e3ci.onrender.com
+- 💻 **GitHub Repository:** https://github.com/hillsteadashley1001-arch/WDD-340.git
 - 📋 **Trello Board:** https://trello.com/b/your-trello-link
 
 📄 [View Project Details](./sleepoutside)
@@ -20,7 +20,7 @@ The SleepOutside project was a team-based application focused on building modula
 
 The Reading List application is a full-stack web app that allows users to authenticate with Google, search for books using an external API, and manage a personal reading list.
 
-- 💻 **GitHub Repository:** https://github.com/your-username/reading-list-app
+- 💻 **GitHub Repository:** https://github.com/hillsteadashley1001-arch/reading-list-app.git
 
 📄 [View Project Details](./reading-list-app)
 
